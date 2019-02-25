@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 
-/* 4-) Fazer um programa de que preencha dois vetores A e B de 10 posições cada e gere um vetor resultante que 
+/* 4-) Fazer um programa de que preencha dois vetores A e B de 10 posiÃ§Ãµes cada e gere um vetor resultante que 
 intercale nele os dois vetores A e B. */
 
 using namespace std;
@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
 	
 	for(i=0; i<10; i++) {
 		
-		cout<<"Digite um número para A: ";
+		cout<<"Digite um nÃºmero para A: ";
 		
 		cin>>vetA[i];
 		
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	
 	for( i=0; i<10; i++) {
 		
-		cout<<"Digite um número para B: ";
+		cout<<"Digite um nÃºmero para B: ";
 		
 	
 		cin>>vetB[i];
