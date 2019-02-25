@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
   
     for(int a=0; a<10; a++){
         
-        cout<<"Digite um número";
+        cout<<"Digite um nÃºmero";
         cin>> vet[a];
             }
     for(int i=0; i<10; i++){
