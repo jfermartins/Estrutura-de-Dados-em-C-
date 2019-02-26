@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 		cout << "Digite o valor do vetor B: ";
 		cin >> b[i];
 		
-		cout << "Digite a operação para o calculo dos números digitados: ";
+		cout << "Digite a operaÃ§Ã£o para o calculo dos nÃºmeros digitados: ";
 		cin >> op[i];
 	}
 	
