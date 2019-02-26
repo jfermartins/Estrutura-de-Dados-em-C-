@@ -1,7 +1,7 @@
 #include <iostream>
 #include<string.h>
 
-/* crie um vetor de char que armazene letras e exiba a palavra formada ao contr·rio, Ex. CASA - ASAC */
+/* crie um vetor de char que armazene letras e exiba a palavra formada ao contr√°rio, Ex. CASA - ASAC */
 
 using namespace std;
 
